@@ -5,9 +5,7 @@ Create a function that draws vertical lines across the image. The function will 
 def vertical_lines(images, red_val, green_val, blue_val):
   your code goes here
 ```
- 
-
-vertical_lines-1.PNG
+![Columns](columns.png)
 
  
 
@@ -16,10 +14,7 @@ Create a function that draws diagonal lines across the image. The function will 
 def diagonal_lines(images, red_val, green_val, blue_val):
   your code goes here
 ```
-
- 
-
-diagonal.PNG
+![Diagonals](diagonals.png)
 
  
 
@@ -28,9 +23,7 @@ Create a function that draws a hot pink box at a specific location. The function
 def box(image, x, y, width, height):
   your code goes here
 ```
- 
-
-box.PNG
+![Box](box.png)
 
  
 
@@ -40,5 +33,4 @@ def pixelate(image, x, y, width, height):
   your code goes here
 ```
  
-
-pixelate.PNG
+![Pixelated](pixelated.png)
